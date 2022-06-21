@@ -1,0 +1,23 @@
+.logo
+{
+    width: 150px;
+    height: 150px;
+}
+.heading
+{
+    color: red;
+    box-shadow:5px 5px 5px grey;
+}
+.img
+{
+    width: 250px;
+    height: 250px;
+}
+.test_image_and_result
+{
+    background-color: gray;
+    box-shadow:5px 5px 5px grey;
+    width: 1000px;
+    margin-left: 100;
+    margin-bottom: 50px;
+}
